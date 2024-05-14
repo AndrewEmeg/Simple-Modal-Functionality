@@ -14,3 +14,13 @@ This project is a simple modal functionality implimentation built using HTML, CS
 - Close button inside the modal
 - Close modal by clicking outside the modal (overlay)
 - Close modal by pressing the Escape key
+
+## Usage
+- Open the index.html file in your browser.
+- Click on any of the "Show modal" buttons to open the modal window.
+- The modal window will appear with a dark overlay, highlighting the modal content.
+- To close the modal, you can:
+    - Click the "×" button in the top-right corner of the modal.
+    - Click outside the modal area (on the overlay).
+    - Press the "Escape" key on your keyboard.
+- The modal window will close, and the overlay will disappear.

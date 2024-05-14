@@ -1,6 +1,6 @@
 # Modal-Window-Project
 ## Disclaimer
-This project is one of the many projects in my current JavaScript course on Udemy as at May 14, 2024. I built this by observing my instructor and implementing my observations in my code. The HTML and CSS were given to me as starter files, since it was a JavaScript course.
+This project is one of the many projects in my current JavaScript course on Udemy as at May 14, 2024. I built this project by observing my instructor and implementing my observations in my code. The HTML and CSS were given to me as starter files, since it was a JavaScript course.
 
 This is the [JavaScript Course](https://www.udemy.com/share/101Wfe/)
 
